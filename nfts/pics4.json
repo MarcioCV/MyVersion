@@ -1,0 +1,20 @@
+{
+    "description": "A scared looking, living your whole life in a second.", 
+    "external_url": "http://i.imgur.com/1wYVzIK.jpg", 
+    "image": "https://gateway.pinata.cloud/ipfs/QmWqeZXivfNLDQVWTcMQd4oJzbbWoTrBUSsCiYUwzAPXpU/art-1.jpg", 
+    "name": "Almost dead.",
+    "attributes": [
+        {
+            "trait_type": "Author",
+            "value": "Amanda Posrhuma-Coelho"
+        },
+        {
+            "trait_type": "Date",
+            "value": "01/07/2022"
+        },
+        {
+            "trait_type": "Art-Style",
+            "value": "Realistc Abstract colors"
+        }
+    ] 
+  }

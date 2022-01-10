@@ -1,0 +1,71 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": true,
+						"internalType": "address",
+						"name": "teste",
+						"type": "address"
+					},
+					{
+						"indexed": true,
+						"internalType": "address",
+						"name": "teste2",
+						"type": "address"
+					},
+					{
+						"indexed": true,
+						"internalType": "uint256",
+						"name": "teste3",
+						"type": "uint256"
+					}
+				],
+				"name": "Teste",
+				"type": "event"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/TestEvent.sol": "TestEvent"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/TestEvent.sol": {
+			"keccak256": "0x218d14916c297ddcbb78fe759356820c36f604feca80a3b162aa00e4a8665cc2",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://0c9794620052433f1646e347fe78c1dd6967e2b6f5adf0428ac5dcd5b604582c",
+				"dweb:/ipfs/QmeV4PwnSHkUG36ApnA9fejWgK1sCaxCaMiJsjwb9bwBJz"
+			]
+		}
+	},
+	"version": 1
+}

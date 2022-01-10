@@ -1,0 +1,20 @@
+{
+    "description": "A worried father looking into the future of your kid.", 
+    "external_url": "https://openseacreatures.io/3", 
+    "image": "https://gateway.pinata.cloud/ipfs/QmWqeZXivfNLDQVWTcMQd4oJzbbWoTrBUSsCiYUwzAPXpU/Art_Basel_2021_lead-3.jpg", 
+    "name": "Worries for the future",
+    "attributes": [
+        {
+            "trait_type": "Author",
+            "value": "Amanda Posrhuma-Coelho"
+        },
+        {
+            "trait_type": "Date",
+            "value": "01/07/2022"
+        },
+        {
+            "trait_type": "Art-Style",
+            "value": "Realistc Abstract colors"
+        }
+    ] 
+  }
